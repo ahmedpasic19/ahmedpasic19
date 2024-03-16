@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer</h3>
 
 
-- 🔭 I’m currently working at [CRA Interactive](https://cra-int.ba/en/home/)
+- 🔭 I’m currently working at [KalpIT](https://cra-int.ba/en/home/](https://kalpit.ba/))
 
 - 💬 Ask me about **React, Next & Node JS**
 
