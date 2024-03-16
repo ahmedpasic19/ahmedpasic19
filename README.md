@@ -8,7 +8,7 @@
 
 - 📫 Reach me at **ahmedpasic15@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1V78Z87zN4AxIYeR6QfQyZyMN7yRBeAkB/view?pli=1)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1V78Z87zN4AxIYeR6QfQyZyMN7yRBeAkB/view?pli=1)
 
 - ⚡ Fun fact **I'm fast 'n funny**
 
