@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Pašic</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Pašić</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
 
@@ -9,8 +9,6 @@
 - 📫 Reach me at **ahmedpasic15@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1V78Z87zN4AxIYeR6QfQyZyMN7yRBeAkB/view?pli=1)
-
-- ⚡ Fun fact **I'm fast 'n funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
